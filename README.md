@@ -5,7 +5,7 @@
 - 王一弛
 - 陈一鸣
 
-## Guide teacher
+## Guidance teacher
 - 冯凯
 
 ## Project Name
