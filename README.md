@@ -5,7 +5,7 @@
 - 王一弛
 - 陈一鸣
 
-## Advisor teacher
+## Guide teacher
 - 冯凯
 
 ## Project Name
